@@ -5,7 +5,7 @@
 - 📫 How to reach me ... angela.rose.barcus@gmail.com
 
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosebarcus&theme=tokyonight)![GitHubstats]https://github-readme-stats.vercel.app/api?username=rosebarcus!show_icons=true)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosebarcus&theme=tokyonight)![GitHubstats](https://github-readme-stats.vercel.app/api?username=rosebarcus!show_icons=true)
 
 <!---
 rosebarcus/rosebarcus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

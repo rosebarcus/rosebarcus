@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Javascript, jQuery, Bootstrap, Java and more!
 - 💞️ I’m looking to collaborate on building dynamic web applications. 
 - 📫 How to reach me ... angela.rose.barcus@gmail.com
+
+
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosebarcus&theme=tokyonight)
 
 <!---

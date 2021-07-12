@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rosebarcus
-- 👀 I’m interested full stack web development.
-- 🌱 I’m currently learning Javascript, jQuery, Bootstrap, Java and more!
+- My pronouns are they/them/theirs
+- 👀 I’m interested in being hired at an amazing company and open to work!
+- 🌱 I’m currently a Codeup Full Stack Web Development studnet in the Neptune cohort!
 - 💞️ I’m looking to collaborate on building dynamic web applications. 
 - 📫 How to reach me ... angela.rose.barcus@gmail.com
 
